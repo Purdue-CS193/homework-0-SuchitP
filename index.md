@@ -1,5 +1,12 @@
+# Suchit Peddireddy's First CS193 Homework
+### favorite things about CS193:
+- it is taught by Purdue students
+- there is no final exam
+- the teachers seem cool :)
+
 # Suchit Peddireddy
 Hi my name is Suchit Peddireddy and I am a computer science student at Purdue University.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
